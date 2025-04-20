@@ -29,8 +29,9 @@ In a milestone event, humanoid robots have successfully completed the world’s 
 
 ---
 
-This comprehensive snapshot showcases the dynamic progress at the intersection of robotics and AI—from groundbreaking research and new product launches to major upcoming events—highlighting how intelligent machines are increasingly integral to both industry and everyday life.
-
-Citations: https://www.hdi.global/en-jp/infocenter/insights/2025/hdi-robotics/,https://www.roboticssummit.com/robotics-summit-news/,https://www.therobotreport.com/robotics-news/,https://www.sciencedaily.com/news/computers_math/robotics/,https://techxplore.com/news/2025-04-humanoid-robots-future-world-marathon.html
-
-Date: April 20th 2025, 9:25:54 pm
+Citations:  
+1. https://www.hdi.global/en-jp/infocenter/insights/2025/hdi-robotics/  
+2. https://www.roboticssummit.com/robotics-summit-news/  
+3. https://www.therobotreport.com/robotics-news/  
+4. https://www.sciencedaily.com/news/computers_math/robotics/  
+5. https://techxplore.com/news/2025-04-humanoid-robots-future-world-marathon.html
