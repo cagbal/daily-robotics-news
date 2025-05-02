@@ -1,38 +1,25 @@
 ## Daily Robotics and AI News
+### May 2, 2025
 
-### May 1, 2025
+**Robotics**
+1. **US and China Humanoid Robotics Competition**
+   - The U.S. is facing challenges in its competition with China in the humanoid robotics sector, partly due to tariffs imposed during the Trump administration. These tariffs could hinder American manufacturers by increasing dependency on imported components, thereby pushing companies toward more expensive onshoring and automation to offset labor costs.
+2. **Automate 2025**
+   - The major robotics and automation event, Automate 2025, will take place in Detroit from May 12 to 15. This event promises to showcase the latest advancements in robotics and vision technology across North America.
 
-**Top Stories**
+**AI Developments**
+1. **AI and Robotics Adoption**
+   - There is an increasing call for the acceleration of AI and robotics in industries to combat rising labor costs. This trend highlights the growing reliance on technology to streamline operations and reduce dependency on human labor.
+2. **AIRC 2025 Conference**
+   - The 6th International Conference on Artificial Intelligence, Robotics, and Control (AIRC) will be held from May 7 to 9 at Georgia Southern University. The conference will explore the latest innovations in AI, robotics, and control systems, focusing on how these technologies are transforming industries and pushing the boundaries of technological capabilities.
 
-1. **Robots Enhance Workplace Safety with AI**
-   - Robots and AI are increasingly being used to improve workplace safety. Industries like construction and manufacturing are leveraging drones and AI-powered robots to identify hazards and prevent accidents. A recent report indicates that a 10% rise in robot use has led to a decrease in workplace deaths and injuries by 0.066% and 1.96%, respectively.
-
-2. **Berkeley Lab Accelerates Science with AI and Automation**
-   - Berkeley Lab is utilizing AI-driven systems, including smart robots and supercomputers, to accelerate scientific breakthroughs. This integration is reshaping the way science is conducted, highlighting the potential for AI in advancing research.
-
-3. **Robotic Machine Tending at Automate 2025**
-   - Flexxbotics will showcase robotic machine tending solutions at the Automate event, bringing together innovators from robotics, vision, motion, and AI. This highlights the growing importance of robotics in advanced manufacturing.
-
-4. **Cobots Gain Advanced Tasks with AI Integration**
-   - Companies like Universal Robots and Delta Electronics are using AI to expand the capabilities of collaborative robots. Delta's Cognibot Kit enables cobots with advanced cognitive features such as 3D vision and voice control, enhancing their deployment across various manufacturing environments.
-
-5. **AIRC 2025 Conference Invitation**
-   - The 6th International Conference on Artificial Intelligence, Robotics, and Control (AIRC 2025) will be held from May 7-9, 2025, at Georgia Southern University. The conference focuses on the evolving fields of AI, Robotics, and Control Systems, showcasing innovations and breakthroughs in these areas.
-
-### Featured Products and Developments
-
-- **Universal Robots' UR AI Accelerator**: A tool for developers to equip robotics solutions with the latest AI technology.
-- **Delta Electronics' Cognibot Kit**: Enables fitting cobots with advanced cognitive capabilities like voice control and 3D machine vision.
-
-### Insights and Trends
-
-- The use of AI-powered robots is becoming more prevalent in industries seeking to enhance safety and efficiency.
-- Robotics and automation are increasingly important for small and mid-sized companies facing labor shortages.
-- The integration of AI, robotics, and control systems is driving advancements in fields from science to manufacturing.
+**Financial Updates**
+1. **Realbotix Financial Results**
+   - Realbotix, a company specializing in AI-powered humanoid robots aimed at enhancing human connection and companionship, is set to release its financial results for Q2 2025 on May 15.
 
 **Citations**
-1. https://ohsonline.com/articles/2025/05/01/ai-shahid.aspx
-2. https://newscenter.lbl.gov/2025/05/01/accelerating-science-with-ai-and-automation-at-berkeley-lab/
-3. https://www.engineering.com/flexxbotics-to-showcase-robotic-machine-tending-at-automate/
-4. https://roboticsandautomationnews.com/2025/05/01/the-view-from-automatica-why-companies-are-increasingly-turning-to-robotics-and-automation/90186/
+1. https://www.businesswire.com/news/home/20250502626657/en/Realbotix-to-Release-its-Financial-Results-for-Q2-2025-on-May-15-2025
+2. https://www.foodanddrinktechnology.com/news/58678/call-to-accelerate-ai-and-robotics-adoption-to-combat-rising-labour-costs/
+3. https://www.euronews.com/next/2025/05/02/us-hopes-of-beating-china-in-the-humanoid-robotics-race-may-be-dashed-by-trumps-tariffs
+4. https://ifr.org/event/automate-2025
 5. https://airc.org
