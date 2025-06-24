@@ -1,53 +1,25 @@
 # Robotics and AI News Repository
 
-Welcome to the Robotics and AI News Repository! This repository is dedicated to compiling the latest news, breakthroughs, and trends in the fields of robotics and artificial intelligence.
+Welcome to the Robotics and AI News Repository! This repository is dedicated to curating daily updates on the latest advancements, breakthroughs, and news in the fields of robotics and artificial intelligence.
 
-## Daily Robotics and AI News – June 23, 2025
+## Daily Robotics and AI News – June 24, 2025
 
-**AI and Robotics Industry Highlights**
+**RoboForce Named a 2025 Technology Pioneer by World Economic Forum**  
+RoboForce, a U.S.-based AI robotics company specializing in Robo-Labor solutions, was honored by the World Economic Forum as a 2025 Technology Pioneer. It stands out as the sole U.S. firm awarded in this year's cohort, recognized for pushing the boundaries in robotics and AI integration in industrial labor.
 
-- **SoftBank’s $1 Trillion AI & Robotics Complex Proposed in Arizona:** SoftBank CEO Masayoshi Son announced plans to build a massive $1 trillion AI and robotics hub in Arizona, signaling a major investment in advancing AI-robotics integration and innovation in the US.
+**Wits University Advances Autonomous AI with Underground Robotics**  
+The Robotics and Artificial Intelligence Laboratory (RAIL Lab) at the University of the Witwatersrand (Wits) is developing intelligent machines capable of navigating complex underground environments like caves. Their research spans applications from autonomous navigation to human-like planning and even delicate tasks such as pouring milk, highlighting significant strides in autonomous AI research.
 
-- **AI-Powered Quadruped Robot Plays Badminton:** A Chinese research team unveiled a four-legged AI robot capable of playing badminton against human opponents, using advanced vision and sensor data combined with machine learning to anticipate and react in real time. This milestone illustrates the rapid progress in human-robot collaboration in sports and interactive training.
+**Inbolt Expands Global Reach in 3D Vision and Robotic Guidance**  
+Inbolt, a pioneer in 3D vision and AI for robotic guidance systems, announced its expansion into the U.S. and Japanese markets. The company’s technology is operational in over 50 factories worldwide, facilitating more than 20 million robot cycles in the first half of 2025, underscoring its impact on industrial automation.
 
-- **Thinking Machines Lab Raises $2B at $10B Valuation:** Mira Murati’s new AI startup secured $2 billion in funding, reaching a $10 billion valuation. The lab is focused on developing agentic AI systems with advanced reasoning, planning, and autonomy capabilities. This positions the company as a significant player in foundational AI research beyond OpenAI’s ecosystem.
-
-- **Tata Consultancy Services and Microsoft Partner on AI Solutions:** TCS announced a strategic partnership with Microsoft to integrate Azure OpenAI services into business transformation initiatives. The collaboration includes upskilling 100,000 employees in generative AI and developing industry-specific AI applications, aiming to accelerate enterprise AI adoption worldwide.
-
----
-
-**Humanoid Robots: Disruption and Promise**
-
-- **Market Growth and Applications:** Humanoid robots, powered by sophisticated AI to perceive, decide, plan, and perform complex tasks autonomously, are rapidly evolving. Analysts forecast billions of humanoid robots in operation worldwide by 2040, extending far beyond manufacturing to healthcare, retail, public maintenance, and personal assistance.
-
-- **Economic Projections:** Goldman Sachs estimates the humanoid robot market could reach $38 billion by 2035, with Fortune Business Insights projecting even faster growth, hitting $66 billion by 2032, driven by advances in AI, semiconductors, actuators, and sensor technologies.
-
-- **Leading Projects:** Tesla’s Optimus, OpenAI-backed Figure AI, and Unitree Technology’s humanoids are accelerating commercialization and mass production, gradually making humanoid robots an everyday reality.
-
----
-
-**Industry Updates**
-
-- **Nvidia and Foxconn to Use Humanoid Robots in AI Server Factory:** Nvidia and Foxconn plan to deploy humanoid robots in the Houston-based factory next year to assist in assembling Nvidia’s AI servers, exemplifying how robotics is reshaping hardware manufacturing.
-
-- **Amazon Enhances Supply Chain with AI Upgrades:** Amazon announced new AI-driven improvements in forecasting, deliveries, and robotics to speed up order fulfillment and increase product availability, enhancing customer experience and operational efficiency.
-
----
-
-**Scientific Insight**
-
-- **Neuroscience and AI:** Researchers at the University of Amsterdam have discovered that the human brain automatically perceives “affordances” — the potential actions objects offer — a cognitive superpower that AI systems still have not mastered. Understanding this may guide future AI development toward more human-like perception and interaction.
-
----
+**Notable AI and Robotics Industry Updates**  
+- A four-legged AI-powered robot developed in China can now play badminton with humans, utilizing real-time sensor data and machine learning to anticipate and react dynamically, exemplifying future human-robot collaboration in sports.  
+- Thinking Machines Lab, led by AI visionary Mira Murati, secured $2 billion in funding at a $10 billion valuation to develop advanced agentic AI systems focused on reasoning and autonomy.  
+- Tata Consultancy Services announced a strategic partnership with Microsoft to deploy AI-first business transformation solutions using Azure OpenAI, aiming to reskill 100,000 employees in generative AI capabilities.
 
 ### Citations
-- [SoftBank’s $1 Trillion AI & Robotics Complex Proposed in Arizona](https://www.crescendo.ai/news/latest-ai-news-and-updates)
-- [AI-Powered Quadruped Robot Plays Badminton](https://www.crescendo.ai/news/latest-ai-news-and-updates)
-- [Thinking Machines Lab Raises $2B at $10B Valuation](https://www.crescendo.ai/news/latest-ai-news-and-updates)
-- [Tata Consultancy Services and Microsoft Partner on AI Solutions](https://www.crescendo.ai/news/latest-ai-news-and-updates)
-- [Market Growth and Applications](https://www.weforum.org/stories/2025/06/humanoid-robots-offer-disruption-and-promise/)
-- [Economic Projections](https://www.weforum.org/stories/2025/06/humanoid-robots-offer-disruption-and-promise/)
-- [Leading Projects](https://www.weforum.org/stories/2025/06/humanoid-robots-offer-disruption-and-promise/)
-- [Nvidia and Foxconn to Use Humanoid Robots in AI Server Factory](https://www.pymnts.com/artificial-intelligence-2/2025/nvidia-and-foxconn-aim-to-use-humanoid-robots-in-ai-server-factory/)
-- [Amazon Enhances Supply Chain with AI Upgrades](https://www.retaildive.com/news/amazon-ai-supply-chain-usage-upgrades/751229/)
-- [Neuroscience and AI](https://www.sciencedaily.com/releases/2025/06/250622225921.htm)
+- [World Economic Forum Awards RoboForce as a 2025 Technology Pioneer](https://www.prnewswire.com/news-releases/world-economic-forum-awards-roboforce-as-a-2025-technology-pioneer-302489042.html)
+- [Bots with Brains: Wits Robotics Goes Underground](https://www.wits.ac.za/news/latest-news/general-news/2025/2025-06/bots-with-brains-wits-robotics-goes-underground.html)
+- [Inbolt Expands into the US and Japan](https://www.globenewswire.com/news-release/2025/06/24/3103932/0/en/Inbolt-the-pioneer-in-3D-vision-and-AI-for-robotic-guidance-goes-global-as-it-expands-into-the-US-and-Japan.html)
+- [Latest AI News and Updates](https://www.crescendo.ai/news/latest-ai-news-and-updates)
