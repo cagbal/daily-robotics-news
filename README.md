@@ -1,35 +1,42 @@
 # Daily Robotics and AI News
 
-Here is your Daily Robotics and AI News one-pager for July 12, 2025:
+Here is your **Daily Robotics and AI News** one-pager for Sunday, July 13, 2025:
 
 ---
 
-### Daily Robotics and AI News — July 12, 2025
+### Daily Robotics and AI News — July 13, 2025
 
-**Industrial Robotics & AI Autonomy:**  
-June and July 2025 marked significant breakthroughs in industrial robotics and AI integration worldwide. Meta unveiled **V-JEPA 2**, an advanced 1.2-billion-parameter “world model” AI trained on over a million hours of video. This model equips robots with a type of common-sense intuition about physical events like gravity and object interactions, enabling zero-shot task planning without extensive robotic training data. Similarly, Norwegian-American startup 1X Technologies introduced **Redwood AI**, a vision-language transformer that enhances autonomy for their humanoid robot *NEO*. NEO can now independently perform household chores, including laundry, answering doors, and navigating complex environments. Industry experts suggest these advances could herald a “ChatGPT moment” for robotics, where large-scale AI dramatically reduces manual programming needs[1].
+**1. SoftBank's $1 Trillion AI & Robotics Complex in Arizona**  
+SoftBank CEO Masayoshi Son announced plans to build a massive $1 trillion AI and robotics complex in Arizona. This ambitious project aims to accelerate innovation and establish a leading hub for AI and robotics development in the United States.
 
-**NVIDIA’s Role in Physical AI and Robotics Simulation:**  
-During National Robotics Week, NVIDIA highlighted its contributions to physical AI, enabling robots to perceive, plan, and act autonomously in real-world conditions. Key platforms include **NVIDIA Isaac Sim** and **GR00T**, which provide simulation environments and synthetic data pipelines critical for robot learning and training. These tools accelerate research and development in robotics across industries such as manufacturing and healthcare, pushing the envelope for AI-driven robotic capabilities[2].
+**2. U.S. States Advance Patchwork AI Legislation**  
+With federal AI regulation lagging, over a dozen U.S. states have passed or proposed their own AI laws covering critical areas such as facial recognition and automated hiring. Legal experts warn this fragmented approach could complicate compliance for businesses operating nationwide.
 
-**AI Legislative and Military Developments in the U.S.:**  
-With federal AI regulation lagging, over a dozen U.S. states have enacted or proposed diverse AI laws, targeting areas like facial recognition and automated hiring, signaling growing regulatory urgency. Meanwhile, the U.S. Army announced a new AI occupational specialty and officer track focused on AI integration for combat operations, with recruitment set to begin in 2026. This reflects the military’s expanding reliance on AI technologies for operational readiness[3].
+**3. U.S. Army Launches Dedicated AI Career Track**  
+Reflecting the growing military reliance on AI, the U.S. Army announced a new AI-focused occupational specialty and officer track. Starting recruitment in 2026, this initiative will prepare soldiers for AI integration, development, and operational deployment in defense units.
 
-**AI in Healthcare:**  
-University Hospitals in Ohio launched an AI-driven study aimed at improving lung cancer outcomes by predicting risk and customizing treatments through deep analysis of imaging and clinical data. This precision oncology initiative underscores AI’s increasing role in enhancing personalized medicine and patient survival rates[3].
+**4. AI Enhances Lung Cancer Care at University Hospitals Ohio**  
+A new AI study at University Hospitals in Ohio uses imaging and clinical data to predict lung cancer risk and personalize treatment plans. This precision oncology effort aims to improve survival rates through earlier and more targeted interventions.
 
-**Additional Innovations:**  
-Robotics researchers developed the **Dragon Firefighter**, a drone-like flying firehose robot designed to fight fires remotely, enhancing safety for human firefighters. Other research highlights include efforts to reduce carbon emissions from large language models (LLMs) and challenges posed by hyper-realistic deepfake videos that simulate realistic heartbeats, demanding more advanced detection methods[4].
+**5. Amazon Deploys Over 1 Million Robots with New AI Foundation Model**  
+Amazon has integrated AI technology to enhance the efficiency and intelligence of its massive fleet of over 1 million industrial mobile robots, significantly improving warehouse operations worldwide.
+
+**6. Cutting-Edge Robotics Research Highlights**  
+- Engineers developed a Transformer-like flying and rolling robot capable of smooth mid-air morphing to transition seamlessly between aerial and ground modes, promising versatile applications.  
+- Inspired by therapy horses, new social robots are being designed to actively respond to human emotions, aiming for more meaningful human-robot interactions.  
+- Scientists introduced a non-permanent wireless forehead e-tattoo that tracks brain activity to enhance safety in industrial settings by indicating cognitive overload.
+
+**7. Environmental Impact of Large Language Models (LLMs)**  
+Recent research reveals that some LLMs can generate up to 50 times more CO2 emissions than others with similar accuracy, emphasizing the need for conscientious AI model selection to mitigate environmental impact.
+
+**8. UN Hosts AI for Good Global Summit**  
+The AI for Good Global Summit took place in Geneva on July 8, 2025, gathering global leaders to discuss both the promising opportunities and risks of AI technologies, signaling an international effort to guide AI development responsibly.
 
 ---
 
-This roundup showcases the rapid convergence of AI and robotics across industrial, healthcare, military, and environmental applications, highlighting technology, regulation, and innovation shaping the near future of autonomous machines.
-
----
-
-### Citations
-1. https://ts2.tech/en/industrial-robotics-automation-breakthroughs-june-july-2025/
-2. https://blogs.nvidia.com/blog/national-robotics-week-2025/
-3. https://www.crescendo.ai/news/latest-ai-news-and-updates
-4. https://www.frontiersin.org/news/category/robotics-and-ai
-5. https://news.un.org/en/story/2025/07/1165346
+Citations:
+1. https://www.crescendo.ai/news/latest-ai-news-and-updates
+2. https://www.frontiersin.org/news/category/robotics-and-ai
+3. https://news.un.org/en/story/2025/07/1165346
+4. https://www.sciencedaily.com/news/computers_math/robotics/
+5. https://www.aboutamazon.com/news/operations/amazon-million-robots-ai-foundation-model
