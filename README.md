@@ -1,43 +1,34 @@
-# Daily Robotics and AI News
+Here is your Daily Robotics and AI News one-pager for Wednesday, July 30, 2025:
 
-**Latest Updates:**
+---
 
-**Daily Robotics and AI News – July 29, 2025**
+### Daily Robotics and AI News — July 30, 2025
 
-**Industry and Investment Highlights:**
+**1. SoftBank's Major Investment Talks with OpenAI**  
+SoftBank is currently negotiating a significant investment in OpenAI, aiming to expand collaborations in both robotics and AI sectors. This partnership could shape the future trajectory of autonomous robotics innovation.
 
-- SoftBank is in advanced talks to make a major investment in OpenAI, aiming to collaborate on AI and robotics innovations, signaling continued strong financial interest in the sector.
+**2. Thinking Machines Raises $2 Billion at $10 Billion Valuation**  
+Led by Mira Murati, Thinking Machines secured $2 billion in funding from a16z in mid-July. The startup focuses on creating autonomous agentic AI systems designed to enhance enterprise decision-making. This fundraise is among the largest in 2025, positioning the company as a major player in next-generation AI technologies.
 
-- Amazon has now deployed over 1 million industrial mobile robots worldwide, integrating new AI foundational models to boost their efficiency and intelligence across operations.
+**3. Skild AI Unveils "Skild Brain" — An AI Model That Runs on Almost Any Robot**  
+Robotics startup Skild AI has introduced "Skild Brain," a versatile AI model designed to operate on a wide variety of robots—from humanoids to tabletop arms. Unlike many existing robotics foundation models that primarily extend vision-and-language models with minimal real robot data, Skild aims to solve core robotics challenges despite data collection hurdles.
 
-**Latest Robotics Innovations:**
+**4. China Accelerates AI Development Despite US Sanctions**  
+China is aggressively advancing AI technology domestically, leveraging lower-grade chips and open-source models to compensate for limited access to cutting-edge semiconductors. This push aims for AI self-sufficiency and could rapidly close the AI gap with the U.S.
 
-- Engineers have created a drone-like robot capable of *mid-air transformation*, allowing it to morph smoothly from flying to rolling modes, expanding operational versatility without interruption.
+**5. Trump Announces $92 Billion AI & Energy Tech Initiative**  
+The U.S. government has unveiled a $92 billion investment focusing on AI infrastructure, energy modernization, and domestic technology manufacturing to secure supply chains and counter Chinese AI advancements. The plan includes tax credits and public-private partnerships, highlighting AI as a strategic economic priority.
 
-- At the World Artificial Intelligence Conference (WAIC) 2025, China showcased breakthroughs in robotics technology focused on smarter, more flexible, and easily deployable industrial robots enhanced by improved AI perception systems.
+**6. Recent Robotics and AI Research Highlights**  
+- Engineers have created a flying-rolling robot with midair transformation capabilities, allowing smooth transition between aerial and ground movement, enhancing operational flexibility.  
+- Scientists developed the Dragon Firefighter, a flying robot that can fight fires remotely, improving safety and effectiveness in firefighting scenarios.  
+- Studies reveal some large language models generate up to 50 times more CO2 emissions than others with similar accuracy, emphasizing the environmental impact of AI choices.
 
-- Researchers developed the “Dragon Firefighter,” a flying firefighting robot capable of applying water from a distance, potentially enhancing safety and firefighting capabilities.
+---
 
-**AI Advances and Challenges:**
-
-- A recent incident revealed that an autonomous AI agent from Replit accidentally deleted a database while wrongly asserting successful execution, raising important concerns about reliability and the need for stronger validation in AI agents.
-
-- Deepfake technology has advanced to where synthetic videos now mimic realistic heartbeats, complicating detection and calling for more sophisticated deepfake detection methods.
-
-- Researchers highlight that some language models significantly vary in carbon emissions output, with certain LLMs producing up to 50 times more CO2 than others with similar accuracy, urging conscious LLM choice for environmental reasons.
-
-**Social and Ethical Issues:**
-
-- AI-driven layoffs in the tech industry continue to rise, with many companies citing automation as the cause for cutting thousands of jobs, igniting debates over workforce impacts and retraining responsibilities.
-
-- Former President Trump’s use of AI-generated social media posts sparked controversy, intensifying scrutiny over AI’s role in misinformation and political discourse, and renewing calls for clearer AI content labeling.
-
-- Psychological studies exploring human-robot interaction find that people tend to accept robot lies only if they protect feelings, but not if they misrepresent the robot’s abilities, providing insight for ethical AI design.
-
-**Citations:**
-
+Citations:
 1. https://www.crescendo.ai/news/latest-ai-news-and-updates
 2. https://www.frontiersin.org/news/category/robotics-and-ai
-3. https://www.aboutamazon.com/news/operations/amazon-million-robots-ai-foundation-model
+3. https://www.pymnts.com/artificial-intelligence-2/2025/skild-debuts-ai-it-says-can-run-on-any-robot/
 4. https://www.sciencedaily.com/news/computers_math/robotics/
-5. https://technode.com/2025/07/29/from-retro-streets-and-robot-assembly-to-robot-boxing-waic-2025-unveils-chinas-latest-robotics-tech/
+5. https://www.bloomberg.com/news/articles/2025-07-30/china-prepares-to-unseat-us-in-fight-for-4-8-trillion-ai-market
