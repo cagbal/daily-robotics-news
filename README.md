@@ -1,46 +1,32 @@
-# Daily Robotics and AI News
-
-This repository archives daily updates on the latest advancements, investments, and trends in robotics and artificial intelligence.
+Here is the Daily Robotics and AI News one-pager for Friday, August 1, 2025:
 
 ---
 
-**Daily Robotics and AI News — July 31, 2025**
+**Daily Robotics and AI News – August 1, 2025**
 
-**1. AI Industry Moves and Investment Highlights**
+**Midea Unveils Advanced Humanoid Robot at WAIC 2025**  
+At the World Artificial Intelligence Conference (WAIC) held recently in Shanghai, Midea, parent company of Kuka Robotics, revealed a new humanoid robot prototype. This unveiling highlights Midea’s significant investment in embodied intelligence—the integration of robotics, AI, and real-world interaction. Midea has invested around $208 million into this technology platform and expanded its R&D budget by over 13% to $1.57 billion by early 2025. The conference showcased over 150 humanoid robots from 80+ companies, introducing more than 60 new models aimed at commercial applications. Demonstrations included live boxing matches between robots and even robots playing mahjong, highlighting both entertainment and practical advances such as robotic arms powered by Tencent Robotics X’s large language model with dual-arm integration and autonomous command rejection[1].
 
-- *SoftBank Eyes Major Investment in OpenAI*: SoftBank is in advanced talks to invest in OpenAI with a focus on expanding collaborations in robotics and AI technologies, signaling strong confidence in AI’s future capabilities.
+**Notable Industry Developments and Partnerships**  
+July 2025 saw major robotics funding rounds and new deployments. Key highlights include:
 
-- *Thinking Machines Raises $2 Billion at $10 Billion Valuation*: Led by AI expert Mira Murati, Thinking Machines has secured a huge funding round to develop autonomous agentic AI for enterprise decision-making. This positions the startup as a key player in the next wave of AI innovation beyond foundation models.
+- **MIT’s 3-in-1 Robot Training Tool:** This tool enables easier teaching of robots by demonstration, allowing users to train robots via remote control, physically guiding them, or performing the task for the robot to mimic. This lowers the barrier to programming by enabling natural human-robot interaction[3].
 
-- *U.S. $92 Billion AI & Energy Initiative*: President Trump announced a multi-billion-dollar investment targeting AI infrastructure, energy grid modernization, and domestic technology manufacturing. This is a strategic push to fortify U.S. technology leadership against China's advancing AI capabilities.
+- **NEURA Robotics & HD Hyundai Partnership:** NEURA Robotics is collaborating with HD Hyundai Samho and HD Hyundai Robotics to develop quadruped and humanoid robots tailored for the shipbuilding industry—a challenging industrial environment that demands high adaptability and cognitive capabilities from robots[3].
 
-**2. Advances in Robotics Research**
+**Emerging Trends in AI and Robotics**  
+- The robotics sector is moving rapidly from prototypes to commercially viable products, highlighted by the WAIC 2025’s large-scale humanoid robot showcase[1].  
+- Advances in robotic arms and sensory feedback systems are enabling robots to interpret and autonomously reject irrational commands, pointing toward safer and more intelligent automation[1].  
+- AI’s growing computational and energy demands are driving partnerships between Big Tech and sustainable energy providers, including nuclear power, to support future AI infrastructure reliably and sustainably[5].
 
-- *Transforming Robot Morphs Mid-Air*: Engineers have created a drone-like robot capable of midair transformation, seamlessly switching from flight to rolling on the ground. This breakthrough enables continuous operation modes in challenging environments.
-
-- *Robotic Gripper Made from Measuring Tape Enhances Agricultural Automation*: A new flexible robotic gripper is improving the delicate task of picking fruits and vegetables, promising more efficient and less damaging handling in farming robotics.
-
-- *3D-Printed Open-Source Robot for Materials Synthesis*: An accessible robotic platform is empowering researchers to automate complex material synthesis, potentially accelerating innovation cycles in labs worldwide.
-
-**3. AI and Robotics in Education and Society**
-
-- *Middle School Students Develop AI, Robotics, and App-Based Business Ideas*: Young learners are combining AI, robotics, and app design to create innovative business concepts, reflecting increasing integration of advanced tech education in early curricula.
-
-- *AI Adoption in Newsrooms Continues to Rise*: Media outlets globally are harnessing AI to automate routine journalism tasks and predict audience behaviors, aiming to enhance content quality and operational efficiency.
-
-**4. Emerging Products and Ecosystem Updates**
-
-- *Skild Launches AI Software Compatible with Any Robot*: Skild has debuted AI technology designed to operate across diverse robotic platforms, increasing flexibility and reducing integration barriers for robotic automation.
-
-- *China Advances AI Despite Sanctions*: Chinese firms are innovating with lower-grade chips and open-source AI to maintain rapid AI development despite U.S. export restrictions, narrowing the global AI gap.
+**Research and Resources**  
+For those interested in in-depth research and background on AI and robotics, Shippensburg University’s Artificial Intelligence and Robotics guide offers curated sources, including news, journal articles, and reports spanning topics like machine learning, cognitive robotics, and soft robotics[2]. Additional robotics news on the latest research and innovations can be tracked continuously through platforms like ScienceDaily[4].
 
 ---
 
 **Citations:**
-1. https://www.crescendo.ai/news/latest-ai-news-and-updates
-2. https://www.sciencedaily.com/news/computers_math/robotics/
-3. https://www.munciejournal.com/2025/07/middle-school-students-combine-ai-robotics-and-app-design-to-develop-business-ideas/
-4. https://innovation.media/insights/ai-robot-journalism-and-all-things-fungible
-5. https://www.pymnts.com/artificial-intelligence-2/2025/skild-debuts-ai-it-says-can-run-on-any-robot/
-
-Date: July 31st 2025, 7:00:35 pm
+1. https://roboticsandautomationnews.com/2025/08/01/midea-unveils-humanoid-robot-at-ai-event-in-china/93446/
+2. https://library.ship.edu/artificial-intelligence
+3. https://www.therobotreport.com/top-10-robotics-developments-of-july-2025/
+4. https://www.sciencedaily.com/news/computers_math/robotics/
+5. https://www.crescendo.ai/news/latest-ai-news-and-updates
