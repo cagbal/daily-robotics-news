@@ -1,32 +1,37 @@
-Here is the Daily Robotics and AI News one-pager for Friday, August 1, 2025:
+# Daily Robotics and AI News
+
+This repository contains daily updates on the latest advancements in Robotics and Artificial Intelligence.
 
 ---
 
-**Daily Robotics and AI News – August 1, 2025**
+**Daily Robotics and AI News – August 2, 2025**
 
-**Midea Unveils Advanced Humanoid Robot at WAIC 2025**  
-At the World Artificial Intelligence Conference (WAIC) held recently in Shanghai, Midea, parent company of Kuka Robotics, revealed a new humanoid robot prototype. This unveiling highlights Midea’s significant investment in embodied intelligence—the integration of robotics, AI, and real-world interaction. Midea has invested around $208 million into this technology platform and expanded its R&D budget by over 13% to $1.57 billion by early 2025. The conference showcased over 150 humanoid robots from 80+ companies, introducing more than 60 new models aimed at commercial applications. Demonstrations included live boxing matches between robots and even robots playing mahjong, highlighting both entertainment and practical advances such as robotic arms powered by Tencent Robotics X’s large language model with dual-arm integration and autonomous command rejection[1].
+**1. Robotics in Logistics and Delivery**  
+Amazon continues advancing robotic automation in logistics with its "Vulcan" robot, which uses tactile sensing to manipulate and organize packages in warehouses across Washington and Germany. In a new development, Amazon is collaborating with Unitree Robotics from China to develop humanoid delivery robots aimed at replacing human delivery drivers. This builds on previous, less successful projects like the "Scout" delivery trolleys (withdrawn in 2022) and drone delivery trials in the U.S. that faced technical and regulatory challenges.
 
-**Notable Industry Developments and Partnerships**  
-July 2025 saw major robotics funding rounds and new deployments. Key highlights include:
+**2. Innovative Robot Mobility and Transportation**  
+At the April 2025 World Expo in Osaka, Kawasaki showcased "Corleo," a mechanical mount inspired by hyena locomotion that adapts to diverse terrains. This reflects the broader push toward robotics and AI enhancing both individual and collective transport safety and speed worldwide.
 
-- **MIT’s 3-in-1 Robot Training Tool:** This tool enables easier teaching of robots by demonstration, allowing users to train robots via remote control, physically guiding them, or performing the task for the robot to mimic. This lowers the barrier to programming by enabling natural human-robot interaction[3].
+**3. Robotics Training Advances**  
+MIT unveiled a 3-in-1 robot training system that enables robots to learn tasks from human demonstration without complex coding. Operators can teach robots through remote control, physical guidance, or performance observation, streamlining robot skill acquisition.
 
-- **NEURA Robotics & HD Hyundai Partnership:** NEURA Robotics is collaborating with HD Hyundai Samho and HD Hyundai Robotics to develop quadruped and humanoid robots tailored for the shipbuilding industry—a challenging industrial environment that demands high adaptability and cognitive capabilities from robots[3].
+**4. Industry Partnerships and Deployments**  
+NEURA Robotics partnered with HD Hyundai to develop quadruped and humanoid robots tailored for challenging shipbuilding environments, demonstrating the expanding industrial role of cognitive robots.
 
-**Emerging Trends in AI and Robotics**  
-- The robotics sector is moving rapidly from prototypes to commercially viable products, highlighted by the WAIC 2025’s large-scale humanoid robot showcase[1].  
-- Advances in robotic arms and sensory feedback systems are enabling robots to interpret and autonomously reject irrational commands, pointing toward safer and more intelligent automation[1].  
-- AI’s growing computational and energy demands are driving partnerships between Big Tech and sustainable energy providers, including nuclear power, to support future AI infrastructure reliably and sustainably[5].
+**5. AI and Energy Partnerships**  
+The rapid growth of AI computing demands is leading major tech companies, including Microsoft and Google, to explore partnerships with nuclear energy providers. This aims to create sustainable, high-capacity power solutions for data centers and AI model training, signaling a shift in the AI energy landscape.
 
-**Research and Resources**  
-For those interested in in-depth research and background on AI and robotics, Shippensburg University’s Artificial Intelligence and Robotics guide offers curated sources, including news, journal articles, and reports spanning topics like machine learning, cognitive robotics, and soft robotics[2]. Additional robotics news on the latest research and innovations can be tracked continuously through platforms like ScienceDaily[4].
+**6. New Robotics Research Highlights**  
+- Engineers developed a transformer-like flying-rolling robot capable of midair shape-shifting for seamless operation transitions.  
+- A breakthrough AI tool predicting the 3D structures of chromosomes at the single-cell level promises advances in genetic and biomedical research.  
+- Scientists created a multifunctional photonic device for optical computing, combining light manipulation with memory functions.  
+- Development continues on artificial tissue chips featuring natural blood vessels to reduce reliance on animal testing.
 
 ---
 
 **Citations:**
-1. https://roboticsandautomationnews.com/2025/08/01/midea-unveils-humanoid-robot-at-ai-event-in-china/93446/
-2. https://library.ship.edu/artificial-intelligence
-3. https://www.therobotreport.com/top-10-robotics-developments-of-july-2025/
-4. https://www.sciencedaily.com/news/computers_math/robotics/
-5. https://www.crescendo.ai/news/latest-ai-news-and-updates
+- https://www.ecija.com/en/news-and-insights/robots-e-inteligencia-artificial-2025/
+- https://www.sciencedaily.com/news/computers_math/robotics/
+- https://www.therobotreport.com/top-10-robotics-developments-of-july-2025/
+- https://onlinedegrees.sandiego.edu/ai-blogs/
+- https://www.crescendo.ai/news/latest-ai-news-and-updates
